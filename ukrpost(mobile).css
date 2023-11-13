@@ -1,0 +1,38 @@
+@media screen and (max-width: 428px) {
+    .logo {
+        width: 50vw;
+        height: 10vw;
+    }
+    nav {
+        width: 100vw;
+        justify-content: start;
+    }
+    .nazva1, .nazva2 {
+        font-size: 24px;
+    }
+    .white {
+        height: 100vh;
+    }
+    .poslugi {
+        display: flex;
+        flex-direction: column;
+    }
+    .forPoslug {
+        width: 50vw;
+        margin-top: 30px;
+    }
+
+    .pInButton {
+        font-size: 1vh;
+    }
+    .buttonInMainDiv {
+        display: flex;
+        flex-direction: column;
+    }
+    .formForTracking {
+        width: 70vw;
+    }
+    .yellow {
+        height: 40vh;
+    }
+}
